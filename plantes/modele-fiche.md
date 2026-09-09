@@ -8,13 +8,13 @@
 - **Niveau :** Debut / Intermediaire / Avance
 - **Statut :** A apprendre / En cours / Maitrise
 
-## Photo
+## 📸 Photo
 
 ![Nom commun](../photos/nom-scientifique-01.jpg)
 
 *Credit : [auteur ou source] - [licence si necessaire]*
 
-## Reconnaitre la plante
+## 🔎 Reconnaitre la plante
 
 - **Port :** [forme generale]
 - **Feuilles :** [forme, disposition, texture, couleur]
@@ -22,38 +22,50 @@
 - **Fruit ou graines :** [description]
 - **Caracteristique distinctive :** [indice utile pour l'identification]
 
-## Couleur des fleurs
+## 🎨 Couleur des fleurs
 
 [Couleur principale, nuances, couleur des etamines ou du coeur de la fleur]
 
-## Besoins et culture
+## 🌱 Besoins et culture
 
 | Element | Besoin de la plante | Mon observation |
 | --- | --- | --- |
-| Lumiere | [soleil / mi-ombre / ombre] | [observation] |
-| Eau | [frequence et quantite] | [observation] |
-| Sol | [type, drainage, pH si connu] | [observation] |
-| Temperature | [minimum, maximum ou saison] | [observation] |
-| Humidite | [faible / moyenne / forte] | [observation] |
+| ☀️ Lumiere | [soleil / mi-ombre / ombre] | [observation] |
+| 💧 Eau | [frequence et quantite] | [observation] |
+| 🪴 Sol | [type, drainage, pH si connu] | [observation] |
+| 🌡️ Temperature | [minimum, maximum ou saison] | [observation] |
+| 💦 Humidite | [faible / moyenne / forte] | [observation] |
+| 📏 Hauteur | [hauteur adulte] | [observation] |
+| 🌿 Envergure | [largeur adulte ou espace occupe] | [observation] |
+| 🏡 Milieu | [massif, sous-bois, rocaille, pot, prairie, autre] | [observation] |
+| 🪨 Texture du sol | [argileux, limoneux, sableux, humifere, caillouteux] | [observation] |
+| 🧭 Exposition | [abritee, vent, nord, sud, est, ouest] | [observation] |
+| 🏜️ Resistance au sec | [faible, moyenne, bonne] | [observation] |
+| 🎨 Couleur du feuillage | [couleur principale et nuances] | [observation] |
+| 🍃 Feuillage | [caduc, persistant, semi-persistant] | [observation] |
+| 🌍 Origine | [region ou pays d'origine] | [observation] |
+| 🌱 Type | [vivace, annuelle, arbuste, arbre, graminee, autre] | [observation] |
+| 🏛️ Silhouette | [touffue, erigee, tapissante, retombante, aerienne, autre] | [observation] |
+| 🧊 Temperature minimale supportee | [temperature minimale approximative] | [observation] |
 
-## Ou la planter dans un massif ?
+## 📍 Ou la planter dans un massif ?
 
 [Fond, centre ou avant du massif. Tenir compte de la hauteur, de la largeur et de la visibilite de la plante.]
 
 [Plantes compagnes possibles et emplacement a eviter]
 
-## Quand la planter ?
+## 📅 Quand la planter ?
 
 [Saison ou periode ideale de plantation, conditions a eviter et soins apres plantation]
 
-## Cycle de vie
+## 🔄 Cycle de vie
 
 - **Floraison :** [periode]
 - **Repos ou dormance :** [periode et signes]
 - **Croissance :** [rythme et saison]
 - **Multiplication :** [semis, bouture, division, autre]
 
-## Bouturage et multiplication
+## ✂️ Bouturage et multiplication
 
 - **Methode recommandee :** [division, semis, bouture ou autre]
 - **Periode :** [saison ideale]
@@ -61,33 +73,33 @@
 - **Delai d'enracinement ou de levee :** [duree approximative]
 - **Conseil :** [precaution ou erreur a eviter]
 
-## Conseils selon les saisons
+## 🗓️ Conseils selon les saisons
 
-- **Printemps :** [reprise, plantation, semis, nettoyage ou fertilisation]
-- **Ete :** [arrosage, paillage, floraison ou protection contre la chaleur]
-- **Automne :** [plantation, division, recolte de graines ou nettoyage]
-- **Hiver :** [repos, protection contre le gel ou surveillance de l'humidite]
+- **🌸 Printemps :** [reprise, plantation, semis, nettoyage ou fertilisation]
+- **☀️ Ete :** [arrosage, paillage, floraison ou protection contre la chaleur]
+- **🍂 Automne :** [plantation, division, recolte de graines ou nettoyage]
+- **❄️ Hiver :** [repos, protection contre le gel ou surveillance de l'humidite]
 
-## Problemes courants
+## ⚠️ Problemes courants
 
 | Symptome | Cause possible | Action a essayer |
 | --- | --- | --- |
 | [symptome] | [cause] | [action] |
 
-## Mes observations
+## 📝 Mes observations
 
 - **Date :** AAAA-MM-JJ - [observation, mesure ou question]
 
-## A retenir
+## 💡 A retenir
 
 1. [idee essentielle]
 2. [idee essentielle]
 3. [idee essentielle]
 
-## Vocabulaire
+## 📖 Vocabulaire
 
 - **[Terme] :** [definition courte]
 
-## Sources
+## 🔗 Sources
 
 - [Source, auteur, lien ou livre, date de consultation]

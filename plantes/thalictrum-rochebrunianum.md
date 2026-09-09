@@ -9,13 +9,13 @@
 - **Niveau :** Debut
 - **Statut :** A apprendre
 
-## Photo
+## 📸 Photo
 
 ![Pigamon de Rochebrune](https://upload.wikimedia.org/wikipedia/commons/1/1b/Thalictrum_rochebrunianum.jpg)
 
 *Photo : [Thalictrum rochebrunianum.jpg sur Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Thalictrum_rochebrunianum.jpg). Consulter la page source pour l'auteur et la licence.*
 
-## Reconnaitre la plante
+## 🔎 Reconnaitre la plante
 
 - **Port :** grande vivace herbacée, legerement transparente, aux tiges fines et souvent teintees de pourpre.
 - **Feuilles :** feuillage tres decoupe, vert bleute a vert moyen, compose de nombreux petits folioles.
@@ -24,23 +24,35 @@
 - **Taille :** environ 1,5 a 2,5 m en conditions favorables.
 - **Caracteristique distinctive :** son allure haute et legere, avec des fleurs qui semblent flotter au-dessus des tiges.
 
-## Couleur des fleurs
+## 🎨 Couleur des fleurs
 
 Les fleurs sont **rose lilas a violet clair**, avec des etamines jaunes tres visibles. Elles sont reunies en bouquets aeriens au sommet des tiges.
 
-## Besoins et culture
+## 🌱 Besoins et culture
 
 | Element | Besoin de la plante | Mon observation |
 | --- | --- | --- |
-| Lumiere | Soleil doux a mi-ombre ; proteger des fortes chaleurs en climat chaud. | A completer |
-| Eau | Sol regulierement frais, surtout pendant la croissance et la floraison. | A completer |
-| Sol | Sol humifere, fertile, frais mais draine. | A completer |
-| Temperature | Vivace rustique dans de nombreuses regions ; verifier la rusticite locale. | A completer |
-| Humidite | Moyenne a elevee, sans sol detrempe en hiver. | A completer |
+| ☀️ Lumiere | Soleil doux a mi-ombre ; proteger des fortes chaleurs en climat chaud. | A completer |
+| 💧 Eau | Sol regulierement frais, surtout pendant la croissance et la floraison. | A completer |
+| 🪴 Sol | Sol humifere, fertile, frais mais draine. | A completer |
+| 🌡️ Temperature | Vivace rustique dans de nombreuses regions ; verifier la rusticite locale. | A completer |
+| 💦 Humidite | Moyenne a elevee, sans sol detrempe en hiver. | A completer |
+| 📏 Hauteur | 1,5 a 2,5 m en conditions favorables. | A completer |
+| 🌿 Envergure | Environ 60 cm a 1 m de largeur adulte ; prevoir cet espace autour du pied. | A completer |
+| 🏡 Milieu | Massif de vivaces, lisiere ou jardin de mi-ombre. | A completer |
+| 🪨 Texture du sol | Sol humifere, fertile, frais et bien draine. | A completer |
+| 🧭 Exposition | mi-ombre | A completer |
+| 🏜️ Resistance au sec | Faible a moyenne ; la plante supporte mal une secheresse prolongee. | A completer |
+| 🎨 Couleur du feuillage | Vert moyen a vert bleute. | A completer |
+| 🍃 Feuillage | Caduc : la partie aerienne disparait en hiver dans les climats frais. | A completer |
+| 🌍 Origine | Japon et peninsule coreenne. | A completer |
+| 🌱 Type | Vivace herbacee. | A completer |
+| 🏛️ Silhouette | Haute, touffue et aerienne, avec des tiges fines. | A completer |
+| 🧊 Temperature minimale supportee | Environ -15 a -20 °C pour une plante bien installee ; a confirmer selon le sol, le vent et l'humidite. | A completer |
 
 Un emplacement abrite du vent peut etre utile, car les tiges sont hautes. Un tuteurage n'est pas toujours necessaire, mais peut aider dans un jardin tres expose.
 
-## Ou la planter dans un massif ?
+## 📍 Ou la planter dans un massif ?
 
 Placez le Pigamon de Rochebrune **au fond du massif** ou dans sa partie arriere, car ses tiges peuvent atteindre 1,5 a 2,5 m. Son feuillage leger laisse passer la lumiere et permet de l'associer a des plantes plus basses placees devant.
 
@@ -48,27 +60,27 @@ Dans un petit massif vu de plusieurs cotes, installez-le plutot **au centre**, e
 
 Il peut etre associe a des fougeres, des hostas, des graminees ou des vivaces a floraison estivale qui apprecient un sol frais et la mi-ombre.
 
-## Quand la planter ?
+## 📅 Quand la planter ?
 
 La plantation se fait de preference **au printemps**, apres les dernieres fortes gelees, ou **a l'automne**, lorsque le sol est encore tiede et suffisamment humide. Eviter les periodes de gel, de forte chaleur ou de secheresse.
 
 Apres la plantation, arroser regulierement le temps que les racines s'installent et maintenir le sol frais.
 
-## Conseils selon les saisons
+## 🗓️ Conseils selon les saisons
 
-- **Printemps :** surveiller la reprise des jeunes pousses, maintenir le sol frais et planter apres les dernieres fortes gelees. Proteger les nouvelles feuilles contre les limaces si necessaire.
-- **Ete :** arroser regulierement en cas de secheresse, pailler le pied et tuteurer la plante si les tiges sont exposees au vent. Profiter de la floraison rose lilas a violet clair.
-- **Automne :** planter ou diviser la touffe lorsque le sol est encore tiede et humide. Arroser apres la plantation et laisser les tiges secher progressivement.
-- **Hiver :** laisser la plante entrer en dormance. Couper les tiges seches en fin d'hiver ou au debut du printemps, et eviter un sol detrempe.
+- **🌸 Printemps :** surveiller la reprise des jeunes pousses, maintenir le sol frais et planter apres les dernieres fortes gelees. Proteger les nouvelles feuilles contre les limaces si necessaire.
+- **☀️ Ete :** arroser regulierement en cas de secheresse, pailler le pied et tuteurer la plante si les tiges sont exposees au vent. Profiter de la floraison rose lilas a violet clair.
+- **🍂 Automne :** planter ou diviser la touffe lorsque le sol est encore tiede et humide. Arroser apres la plantation et laisser les tiges secher progressivement.
+- **❄️ Hiver :** laisser la plante entrer en dormance. Couper les tiges seches en fin d'hiver ou au debut du printemps, et eviter un sol detrempe.
 
-## Cycle de vie
+## 🔄 Cycle de vie
 
 - **Floraison :** ete a debut d'automne.
 - **Repos ou dormance :** la partie aerienne disparait en hiver dans les climats frais.
 - **Croissance :** demarrage au printemps, puis forte elevation des tiges avant la floraison.
 - **Multiplication :** semis ou division des touffes ; suivre les recommandations de la pepiniere et de la source choisie.
 
-## Bouturage et multiplication
+## ✂️ Bouturage et multiplication
 
 Pour obtenir plusieurs Pigamons de Rochebrune a partir d'une plante deja installee, la **division de la touffe** est la methode la plus simple et la plus fiable. Le bouturage de tiges n'est pas la methode habituelle pour cette vivace.
 
@@ -86,7 +98,7 @@ Le semis permet aussi de produire plusieurs plants, mais les jeunes plantes dema
 
 Les plantes obtenues par semis peuvent presenter des differences avec la plante mere. Pour conserver exactement les memes caracteristiques, privilegier la division plutot que le semis.
 
-## Problemes courants
+## ⚠️ Problemes courants
 
 | Symptome | Cause possible | Action a essayer |
 | --- | --- | --- |
@@ -94,24 +106,24 @@ Les plantes obtenues par semis peuvent presenter des differences avec la plante 
 | Feuillage qui fletrit | Manque d'eau ou chaleur excessive | Maintenir le sol frais et pailler au pied. |
 | Feuilles abimees | Limaces ou escargots sur les jeunes pousses | Observer les pousses au printemps et proteger si necessaire. |
 
-## Mes observations
+## 📝 Mes observations
 
 - **Date :** 2026-09-09 - Fiche de depart ; aucune observation personnelle pour le moment.
 
-## A retenir
+## 💡 A retenir
 
 1. C'est une grande vivace japonaise a floraison rose lilas et au port tres leger.
 2. Elle apprecie un sol humifere, fertile et frais, au soleil doux ou a mi-ombre.
 3. Sa hauteur et ses tiges fines doivent etre prises en compte dans le choix de l'emplacement.
 
-## Vocabulaire
+## 📖 Vocabulaire
 
 - **Vivace :** plante qui vit plusieurs annees.
 - **Foliole :** petite partie d'une feuille composee.
 - **Etamine :** organe de la fleur qui produit le pollen.
 - **Sol humifere :** sol riche en matiere organique issue de la decomposition.
 
-## Sources
+## 🔗 Sources
 
 - [Royal Horticultural Society - Thalictrum rochebrunianum](https://www.rhs.org.uk/plants/18120/thalictrum-rochebrunianum/details), consulte le 2026-09-09.
 - [Plants of the World Online - Kew, Thalictrum rochebrunianum](https://powo.science.kew.org/), recherche a effectuer sur le nom scientifique, consulte le 2026-09-09.
