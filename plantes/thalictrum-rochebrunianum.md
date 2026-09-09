@@ -67,25 +67,25 @@ Le feuillage est **vert moyen a vert bleute**, avec une teinte legerement gris-b
 
 ## 🌱 Besoins et culture
 
-| Element | Besoin de la plante | Mon observation |
-| --- | --- | --- |
-| ☀️ Lumiere | Soleil doux a mi-ombre ; proteger des fortes chaleurs en climat chaud. | A completer |
-| 💧 Eau | Sol regulierement frais, surtout pendant la croissance et la floraison. | A completer |
-| 🪴 Sol | Sol humifere, fertile, frais mais draine. | A completer |
-| 🌡️ Temperature | Vivace rustique dans de nombreuses regions ; verifier la rusticite locale. | A completer |
-| 💦 Humidite | Moyenne a elevee, sans sol detrempe en hiver. | A completer |
-| 📏 Hauteur | 1,5 a 2,5 m en conditions favorables. | A completer |
-| 🌿 Envergure | Environ 60 cm a 1 m de largeur adulte ; prevoir cet espace autour du pied. | A completer |
-| 🏡 Milieu | Massif de vivaces, lisiere ou jardin de mi-ombre. | A completer |
-| 🪨 Texture du sol | Sol humifere, fertile, frais et bien draine. | A completer |
-| 🧭 Exposition | mi-ombre | A completer |
-| 🏜️ Resistance au sec | Faible a moyenne ; la plante supporte mal une secheresse prolongee. | A completer |
-| 🎨 Couleur du feuillage | Vert moyen a vert bleute. | A completer |
-| 🍃 Feuillage | Caduc : la partie aerienne disparait en hiver dans les climats frais. | A completer |
-| 🌍 Origine | Japon et peninsule coreenne. | A completer |
-| 🌱 Type | Vivace herbacee. | A completer |
-| 🏛️ Silhouette | Haute, touffue et aerienne, avec des tiges fines. | A completer |
-| 🧊 Temperature minimale supportee | Environ -15 a -20 °C pour une plante bien installee ; a confirmer selon le sol, le vent et l'humidite. | A completer |
+| Element | Besoin de la plante |
+| --- | --- |
+| ☀️ Lumiere | Soleil doux a mi-ombre ; proteger des fortes chaleurs en climat chaud. |
+| 💧 Eau | Sol regulierement frais, surtout pendant la croissance et la floraison. |
+| 🪴 Sol | Sol humifere, fertile, frais mais draine. |
+| 🌡️ Temperature | Vivace rustique dans de nombreuses regions ; verifier la rusticite locale. |
+| 💦 Humidite | Moyenne a elevee, sans sol detrempe en hiver. |
+| 📏 Hauteur | 1,5 a 2,5 m en conditions favorables. |
+| 🌿 Envergure | Environ 60 cm a 1 m de largeur adulte ; prevoir cet espace autour du pied. |
+| 🏡 Milieu | Massif de vivaces, lisiere ou jardin de mi-ombre. |
+| 🪨 Texture du sol | Sol humifere, fertile, frais et bien draine. |
+| 🧭 Exposition | Mi-ombre. |
+| 🏜️ Resistance au sec | Faible a moyenne ; la plante supporte mal une secheresse prolongee. |
+| 🎨 Couleur du feuillage | Vert moyen a vert bleute. |
+| 🍃 Feuillage | Caduc : la partie aerienne disparait en hiver dans les climats frais. |
+| 🌍 Origine | Japon et peninsule coreenne. |
+| 🌱 Type | Vivace herbacee. |
+| 🏛️ Silhouette | Haute, touffue et aerienne, avec des tiges fines. |
+| 🧊 Temperature minimale supportee | Environ -15 a -20 °C pour une plante bien installee ; a confirmer selon le sol, le vent et l'humidite. |
 
 Un emplacement abrite du vent peut etre utile, car les tiges sont hautes. Un tuteurage n'est pas toujours necessaire, mais peut aider dans un jardin tres expose.
 

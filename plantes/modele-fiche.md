@@ -65,25 +65,25 @@
 
 ## 🌱 Besoins et culture
 
-| Element | Besoin de la plante | Mon observation |
-| --- | --- | --- |
-| ☀️ Lumiere | [soleil / mi-ombre / ombre] | [observation] |
-| 💧 Eau | [frequence et quantite] | [observation] |
-| 🪴 Sol | [type, drainage, pH si connu] | [observation] |
-| 🌡️ Temperature | [minimum, maximum ou saison] | [observation] |
-| 💦 Humidite | [faible / moyenne / forte] | [observation] |
-| 📏 Hauteur | [hauteur adulte] | [observation] |
-| 🌿 Envergure | [largeur adulte ou espace occupe] | [observation] |
-| 🏡 Milieu | [massif, sous-bois, rocaille, pot, prairie, autre] | [observation] |
-| 🪨 Texture du sol | [argileux, limoneux, sableux, humifere, caillouteux] | [observation] |
-| 🧭 Exposition | [abritee, vent, nord, sud, est, ouest] | [observation] |
-| 🏜️ Resistance au sec | [faible, moyenne, bonne] | [observation] |
-| 🎨 Couleur du feuillage | [couleur principale et nuances] | [observation] |
-| 🍃 Feuillage | [caduc, persistant, semi-persistant] | [observation] |
-| 🌍 Origine | [region ou pays d'origine] | [observation] |
-| 🌱 Type | [vivace, annuelle, arbuste, arbre, graminee, autre] | [observation] |
-| 🏛️ Silhouette | [touffue, erigee, tapissante, retombante, aerienne, autre] | [observation] |
-| 🧊 Temperature minimale supportee | [temperature minimale approximative] | [observation] |
+| Element | Besoin de la plante |
+| --- | --- |
+| ☀️ Lumiere | [soleil / mi-ombre / ombre] |
+| 💧 Eau | [frequence et quantite] |
+| 🪴 Sol | [type, drainage, pH si connu] |
+| 🌡️ Temperature | [minimum, maximum ou saison] |
+| 💦 Humidite | [faible / moyenne / forte] |
+| 📏 Hauteur | [hauteur adulte] |
+| 🌿 Envergure | [largeur adulte ou espace occupe] |
+| 🏡 Milieu | [massif, sous-bois, rocaille, pot, prairie, autre] |
+| 🪨 Texture du sol | [argileux, limoneux, sableux, humifere, caillouteux] |
+| 🧭 Exposition | [abritee, vent, nord, sud, est, ouest] |
+| 🏜️ Resistance au sec | [faible, moyenne, bonne] |
+| 🎨 Couleur du feuillage | [couleur principale et nuances] |
+| 🍃 Feuillage | [caduc, persistant, semi-persistant] |
+| 🌍 Origine | [region ou pays d'origine] |
+| 🌱 Type | [vivace, annuelle, arbuste, arbre, graminee, autre] |
+| 🏛️ Silhouette | [touffue, erigee, tapissante, retombante, aerienne, autre] |
+| 🧊 Temperature minimale supportee | [temperature minimale approximative] |
 
 ## 📍 Ou la planter dans un massif ?
 
