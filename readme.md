@@ -19,11 +19,11 @@ botanique/
 ├── plantes/
 │   ├── index.md             # Catalogue des plantes
 │   ├── modele-fiche.md      # Modele a copier pour chaque nouvelle plante
-│   └── exemples/             # Fiches d'exemple ou fiches en cours
+│   └── thalictrum-rochebrunianum.md
 ├── photos/
-│   └── README.md             # Regles de nommage et emplacement des images
+│   └── README.md            # Regles de nommage et emplacement des images
 ├── ressources/
-│   └── README.md             # Livres, sites et sources utiles
+│   └── README.md            # Livres, sites et sources utiles
 └── readme.md
 ```
 
