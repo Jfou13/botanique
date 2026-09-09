@@ -24,6 +24,10 @@
 - **Taille :** environ 1,5 a 2,5 m en conditions favorables.
 - **Caracteristique distinctive :** son allure haute et legere, avec des fleurs qui semblent flotter au-dessus des tiges.
 
+## Couleur des fleurs
+
+Les fleurs sont **rose lilas a violet clair**, avec des etamines jaunes tres visibles. Elles sont reunies en bouquets aeriens au sommet des tiges.
+
 ## Besoins et culture
 
 | Element | Besoin de la plante | Mon observation |
@@ -36,12 +40,51 @@
 
 Un emplacement abrite du vent peut etre utile, car les tiges sont hautes. Un tuteurage n'est pas toujours necessaire, mais peut aider dans un jardin tres expose.
 
+## Ou la planter dans un massif ?
+
+Placez le Pigamon de Rochebrune **au fond du massif** ou dans sa partie arriere, car ses tiges peuvent atteindre 1,5 a 2,5 m. Son feuillage leger laisse passer la lumiere et permet de l'associer a des plantes plus basses placees devant.
+
+Dans un petit massif vu de plusieurs cotes, installez-le plutot **au centre**, entoure de plantes de taille moyenne. Evitez de le placer tout a l'avant, car il risquerait de masquer les plantes basses et les bordures.
+
+Il peut etre associe a des fougeres, des hostas, des graminees ou des vivaces a floraison estivale qui apprecient un sol frais et la mi-ombre.
+
+## Quand la planter ?
+
+La plantation se fait de preference **au printemps**, apres les dernieres fortes gelees, ou **a l'automne**, lorsque le sol est encore tiede et suffisamment humide. Eviter les periodes de gel, de forte chaleur ou de secheresse.
+
+Apres la plantation, arroser regulierement le temps que les racines s'installent et maintenir le sol frais.
+
+## Conseils selon les saisons
+
+- **Printemps :** surveiller la reprise des jeunes pousses, maintenir le sol frais et planter apres les dernieres fortes gelees. Proteger les nouvelles feuilles contre les limaces si necessaire.
+- **Ete :** arroser regulierement en cas de secheresse, pailler le pied et tuteurer la plante si les tiges sont exposees au vent. Profiter de la floraison rose lilas a violet clair.
+- **Automne :** planter ou diviser la touffe lorsque le sol est encore tiede et humide. Arroser apres la plantation et laisser les tiges secher progressivement.
+- **Hiver :** laisser la plante entrer en dormance. Couper les tiges seches en fin d'hiver ou au debut du printemps, et eviter un sol detrempe.
+
 ## Cycle de vie
 
 - **Floraison :** ete a debut d'automne.
 - **Repos ou dormance :** la partie aerienne disparait en hiver dans les climats frais.
 - **Croissance :** demarrage au printemps, puis forte elevation des tiges avant la floraison.
 - **Multiplication :** semis ou division des touffes ; suivre les recommandations de la pepiniere et de la source choisie.
+
+## Bouturage et multiplication
+
+Pour obtenir plusieurs Pigamons de Rochebrune a partir d'une plante deja installee, la **division de la touffe** est la methode la plus simple et la plus fiable. Le bouturage de tiges n'est pas la methode habituelle pour cette vivace.
+
+### Division de la touffe
+
+1. Choisir le printemps, au moment de la reprise, ou le debut de l'automne, hors periode de forte chaleur.
+2. Arroser la plante la veille afin que la motte soit plus facile a travailler.
+3. Deterrer la touffe en conservant le plus possible de racines.
+4. Separer delicatement la souche en plusieurs morceaux, avec des racines et au moins une ou deux pousses chacun.
+5. Replanter immediatement les divisions dans un sol humifere et frais, puis arroser.
+
+### Semis
+
+Le semis permet aussi de produire plusieurs plants, mais les jeunes plantes demandent davantage de temps avant d'atteindre une belle taille. Semer les graines fraiches en pot ou en terrine, maintenir le substrat humide et proteger les jeunes plants des limaces.
+
+Les plantes obtenues par semis peuvent presenter des differences avec la plante mere. Pour conserver exactement les memes caracteristiques, privilegier la division plutot que le semis.
 
 ## Problemes courants
 
@@ -72,3 +115,4 @@ Un emplacement abrite du vent peut etre utile, car les tiges sont hautes. Un tut
 
 - [Royal Horticultural Society - Thalictrum rochebrunianum](https://www.rhs.org.uk/plants/18120/thalictrum-rochebrunianum/details), consulte le 2026-09-09.
 - [Plants of the World Online - Kew, Thalictrum rochebrunianum](https://powo.science.kew.org/), recherche a effectuer sur le nom scientifique, consulte le 2026-09-09.
+- [Wikipédia - Thalictrum rochebruneanum](https://fr.wikipedia.org/wiki/Thalictrum_rochebruneanum), consulte le 2026-09-09.

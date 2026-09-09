@@ -22,6 +22,10 @@
 - **Fruit ou graines :** [description]
 - **Caracteristique distinctive :** [indice utile pour l'identification]
 
+## Couleur des fleurs
+
+[Couleur principale, nuances, couleur des etamines ou du coeur de la fleur]
+
 ## Besoins et culture
 
 | Element | Besoin de la plante | Mon observation |
@@ -32,12 +36,37 @@
 | Temperature | [minimum, maximum ou saison] | [observation] |
 | Humidite | [faible / moyenne / forte] | [observation] |
 
+## Ou la planter dans un massif ?
+
+[Fond, centre ou avant du massif. Tenir compte de la hauteur, de la largeur et de la visibilite de la plante.]
+
+[Plantes compagnes possibles et emplacement a eviter]
+
+## Quand la planter ?
+
+[Saison ou periode ideale de plantation, conditions a eviter et soins apres plantation]
+
 ## Cycle de vie
 
 - **Floraison :** [periode]
 - **Repos ou dormance :** [periode et signes]
 - **Croissance :** [rythme et saison]
 - **Multiplication :** [semis, bouture, division, autre]
+
+## Bouturage et multiplication
+
+- **Methode recommandee :** [division, semis, bouture ou autre]
+- **Periode :** [saison ideale]
+- **Etapes :** [description courte]
+- **Delai d'enracinement ou de levee :** [duree approximative]
+- **Conseil :** [precaution ou erreur a eviter]
+
+## Conseils selon les saisons
+
+- **Printemps :** [reprise, plantation, semis, nettoyage ou fertilisation]
+- **Ete :** [arrosage, paillage, floraison ou protection contre la chaleur]
+- **Automne :** [plantation, division, recolte de graines ou nettoyage]
+- **Hiver :** [repos, protection contre le gel ou surveillance de l'humidite]
 
 ## Problemes courants
 
