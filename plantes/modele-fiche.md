@@ -26,6 +26,24 @@
 
 [Couleur principale, nuances, couleur des etamines ou du coeur de la fleur]
 
+<table>
+<tr>
+<th>Partie</th>
+<th>Couleur</th>
+<th>Apercu</th>
+</tr>
+<tr>
+<td>Petales</td>
+<td>[couleur principale]</td>
+<td><span style="display:inline-block;width:90px;height:24px;background-color:#dddddd;border:1px solid #888888;">&nbsp;</span></td>
+</tr>
+<tr>
+<td>Etamines ou coeur</td>
+<td>[couleur]</td>
+<td><span style="display:inline-block;width:90px;height:24px;background-color:#eeeeee;border:1px solid #888888;">&nbsp;</span></td>
+</tr>
+</table>
+
 ## 🌱 Besoins et culture
 
 | Element | Besoin de la plante | Mon observation |

@@ -28,6 +28,24 @@
 
 Les fleurs sont **rose lilas a violet clair**, avec des etamines jaunes tres visibles. Elles sont reunies en bouquets aeriens au sommet des tiges.
 
+<table>
+<tr>
+<th>Partie</th>
+<th>Couleur</th>
+<th>Apercu</th>
+</tr>
+<tr>
+<td>Petales</td>
+<td>Rose lilas a violet clair</td>
+<td><span style="display:inline-block;width:90px;height:24px;background-color:#c8a2c8;border:1px solid #6f4f72;">&nbsp;</span></td>
+</tr>
+<tr>
+<td>Etamines</td>
+<td>Jaune</td>
+<td><span style="display:inline-block;width:90px;height:24px;background-color:#f2d14b;border:1px solid #9b7b00;">&nbsp;</span></td>
+</tr>
+</table>
+
 ## 🌱 Besoins et culture
 
 | Element | Besoin de la plante | Mon observation |
