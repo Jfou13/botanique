@@ -22,7 +22,9 @@
 - **Fruit ou graines :** [description]
 - **Caracteristique distinctive :** [indice utile pour l'identification]
 
-## 🎨 Couleur des fleurs
+## 🎨 Couleurs
+
+### 🌸 Fleurs
 
 [Couleur principale, nuances, couleur des etamines ou du coeur de la fleur]
 
@@ -41,6 +43,23 @@
 <td>Etamines ou coeur</td>
 <td>[couleur]</td>
 <td><span style="display:inline-block;width:90px;height:24px;background-color:#eeeeee;border:1px solid #888888;">&nbsp;</span></td>
+</tr>
+</table>
+
+### 🍃 Feuillage
+
+[Couleur principale, nuances et evolution de la couleur au fil des saisons]
+
+<table>
+<tr>
+<th>Partie</th>
+<th>Couleur</th>
+<th>Apercu</th>
+</tr>
+<tr>
+<td>Feuilles</td>
+<td>[couleur principale]</td>
+<td><span style="display:inline-block;width:90px;height:24px;background-color:#dddddd;border:1px solid #888888;">&nbsp;</span></td>
 </tr>
 </table>
 

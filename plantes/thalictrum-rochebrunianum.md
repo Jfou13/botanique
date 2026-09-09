@@ -24,7 +24,9 @@
 - **Taille :** environ 1,5 a 2,5 m en conditions favorables.
 - **Caracteristique distinctive :** son allure haute et legere, avec des fleurs qui semblent flotter au-dessus des tiges.
 
-## 🎨 Couleur des fleurs
+## 🎨 Couleurs
+
+### 🌸 Fleurs
 
 Les fleurs sont **rose lilas a violet clair**, avec des etamines jaunes tres visibles. Elles sont reunies en bouquets aeriens au sommet des tiges.
 
@@ -43,6 +45,23 @@ Les fleurs sont **rose lilas a violet clair**, avec des etamines jaunes tres vis
 <td>Etamines</td>
 <td>Jaune</td>
 <td><span style="display:inline-block;width:90px;height:24px;background-color:#f2d14b;border:1px solid #9b7b00;">&nbsp;</span></td>
+</tr>
+</table>
+
+### 🍃 Feuillage
+
+Le feuillage est **vert moyen a vert bleute**, avec une teinte legerement gris-bleu qui renforce l'aspect leger et delicat de la plante. Il est caduc et disparait progressivement en automne.
+
+<table>
+<tr>
+<th>Partie</th>
+<th>Couleur</th>
+<th>Apercu</th>
+</tr>
+<tr>
+<td>Feuilles</td>
+<td>Vert bleute a vert moyen</td>
+<td><span style="display:inline-block;width:90px;height:24px;background-color:#789b91;border:1px solid #496b62;">&nbsp;</span></td>
 </tr>
 </table>
 
