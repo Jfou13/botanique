@@ -9,6 +9,8 @@ Le projet est volontairement simple : chaque plante est une fiche Markdown, les 
 | Nom commun | Nom scientifique | Famille | Milieu | Niveau |
 | --- | --- | --- | --- | --- |
 | [Pigamon de Rochebrune](plantes/thalictrum-rochebrunianum.md) | *Thalictrum rochebrunianum* | Ranunculaceae | Vivace de jardin | Debut |
+| [Thym serpolet 'Coccineus'](plantes/thymus-serpyllum-coccineus.md) | *Thymus serpyllum* 'Coccineus' | Lamiaceae | Rocaille et jardin sec | Debut |
+| [Thym serpolet 'Elfin'](plantes/thymus-serpyllum-elfin.md) | *Thymus serpyllum* 'Elfin' | Lamiaceae | Rocaille et jardin sec | Debut |
 
 Le [catalogue complet](plantes/index.md) permet de consulter les plantes disponibles et de les classer au fur et a mesure.
 

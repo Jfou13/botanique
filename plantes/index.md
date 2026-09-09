@@ -7,6 +7,8 @@ Le catalogue est classe par nom scientifique. Les fiches peuvent etre enrichies 
 | Nom commun | Nom scientifique | Famille | Milieu | Niveau |
 | --- | --- | --- | --- | --- |
 | [Pigamon de Rochebrune](thalictrum-rochebrunianum.md) | *Thalictrum rochebrunianum* | Ranunculaceae | Vivace de jardin | Debut |
+| [Thym serpolet 'Coccineus'](thymus-serpyllum-coccineus.md) | *Thymus serpyllum* 'Coccineus' | Lamiaceae | Rocaille et jardin sec | Debut |
+| [Thym serpolet 'Elfin'](thymus-serpyllum-elfin.md) | *Thymus serpyllum* 'Elfin' | Lamiaceae | Rocaille et jardin sec | Debut |
 
 ## A classer
 
