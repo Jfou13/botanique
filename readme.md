@@ -4,6 +4,14 @@ Un carnet d'apprentissage pour identifier, comprendre et entretenir les plantes.
 
 Le projet est volontairement simple : chaque plante est une fiche Markdown, les photos sont rangees dans `photos/`, et l'index permet de retrouver rapidement les fiches deja creees.
 
+## Catalogue des plantes
+
+| Nom commun | Nom scientifique | Famille | Milieu | Niveau |
+| --- | --- | --- | --- | --- |
+| [Pigamon de Rochebrune](plantes/thalictrum-rochebrunianum.md) | *Thalictrum rochebrunianum* | Ranunculaceae | Vivace de jardin | Debut |
+
+Le [catalogue complet](plantes/index.md) permet de consulter les plantes disponibles et de les classer au fur et a mesure.
+
 ## Organisation
 
 ```text
@@ -41,7 +49,3 @@ botanique/
 - **Famille botanique** : a renseigner quand elle est connue.
 - **Niveau de confiance** : distinguer une information verifiee d'une observation personnelle.
 - **Date de mise a jour** : garder une trace des progres et des corrections.
-
-## Etat du projet
-
-Le wiki demarre avec un modele de fiche et un index vide. Les plantes peuvent etre ajoutees progressivement, une fiche a la fois.
