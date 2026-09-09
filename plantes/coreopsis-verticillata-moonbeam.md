@@ -9,13 +9,13 @@
 - **Niveau :** Debut
 - **Statut :** A apprendre
 
-## Photo
+## 📸 Photo
 
 ![Coreopsis Moonbeam](https://upload.wikimedia.org/wikipedia/commons/d/d5/Coreopsis_verticillata_Moonbeam_1zz.jpg)
 
 *Photo : [Coreopsis verticillata Moonbeam 1zz.jpg sur Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Coreopsis_verticillata_Moonbeam_1zz.jpg). Consulter la page source pour l'auteur et la licence.*
 
-## Reconnaitre la plante
+## 🔎 Reconnaitre la plante
 
 - **Port :** vivace herbacee en touffe, fine et legerement ramifiee.
 - **Feuilles :** feuillage tres fin, decoupe et vert, donnant un aspect leger et vaporeux.
@@ -24,9 +24,9 @@
 - **Taille :** environ 40 a 60 cm de haut.
 - **Caracteristique distinctive :** fleurs jaune pale et feuillage tres fin, presque filiforme.
 
-## Couleurs
+## 🎨 Couleurs
 
-### Fleurs
+### 🌸 Fleurs
 
 Les fleurs sont jaune beurre a jaune citron pale, avec un coeur central plus sombre.
 
@@ -48,7 +48,7 @@ Les fleurs sont jaune beurre a jaune citron pale, avec un coeur central plus som
 </tr>
 </table>
 
-### Feuillage
+### 🍃 Feuillage
 
 Le feuillage est vert moyen, tres fin et decoupe. Il reste decoratif avant et apres la floraison.
 
@@ -65,7 +65,7 @@ Le feuillage est vert moyen, tres fin et decoupe. Il reste decoratif avant et ap
 </tr>
 </table>
 
-## Besoins et culture
+## 🌱 Besoins et culture
 
 | Element | Besoin de la plante |
 | --- | --- |
@@ -87,24 +87,24 @@ Le feuillage est vert moyen, tres fin et decoupe. Il reste decoratif avant et ap
 | Silhouette | Touffue, fine et legerement arrondie. |
 | Temperature minimale supportee | Environ -15 a -20 degres C pour une plante bien installee ; a confirmer selon le climat local. |
 
-## Ou la planter dans un massif ?
+## 📍 Ou la planter dans un massif ?
 
 Placez-la au milieu ou a l'avant du massif, devant des plantes plus hautes. Son feuillage leger ne masque pas les voisines et ses fleurs jaunes eclairent les bordures.
 
 Elle s'associe bien avec des graminees, des sauges, des lavandes, des nepeta ou des sedums qui aiment eux aussi le soleil et les sols draines.
 
-## Quand la planter ?
+## 📅 Quand la planter ?
 
 Planter de preference au printemps, apres les fortes gelees, ou au debut de l'automne. Arroser regulierement pendant les premieres semaines, puis espacer les arrosages.
 
-## Cycle de vie
+## 🔄 Cycle de vie
 
 - **Floraison :** fin du printemps a fin de l'ete.
 - **Repos ou dormance :** la partie aerienne ralentit ou disparait en hiver dans les climats froids.
 - **Croissance :** reprise au printemps et formation progressive d'une touffe.
 - **Multiplication :** division des touffes, boutures ou semis.
 
-## Bouturage et multiplication
+## ✂️ Bouturage et multiplication
 
 La division de la touffe est la methode la plus simple pour obtenir plusieurs plantes identiques.
 
@@ -117,14 +117,14 @@ La division de la touffe est la methode la plus simple pour obtenir plusieurs pl
 
 Les boutures de tiges sont possibles pendant la periode de croissance. Le semis est possible, mais les plants peuvent varier par rapport au cultivar 'Moonbeam'.
 
-## Conseils selon les saisons
+## 🗓️ Conseils selon les saisons
 
 - **Printemps :** planter ou diviser, nettoyer les tiges seches et surveiller la reprise.
 - **Ete :** arroser en cas de secheresse prolongee et retirer les fleurs fanees pour prolonger la floraison.
 - **Automne :** diviser les touffes devenues denses et reduire progressivement les arrosages.
 - **Hiver :** laisser la plante entrer en repos et eviter un sol detrempe.
 
-## Problemes courants
+## ⚠️ Problemes courants
 
 | Symptome | Cause possible | Action a essayer |
 | --- | --- | --- |
@@ -132,23 +132,23 @@ Les boutures de tiges sont possibles pendant la periode de croissance. Le semis 
 | Tiges qui s'affaissent | Sol trop riche, manque de lumiere ou vent | Deplacer vers un emplacement plus lumineux et tuteurer si necessaire. |
 | Touffe qui se degarnit | Vieillissement ou humidite excessive | Diviser et replanter dans un sol plus draine. |
 
-## Mes observations
+## 📝 Mes observations
 
 - **Date :** 2026-09-09 - Fiche de depart ; observations personnelles a ajouter.
 
-## A retenir
+## 💡 A retenir
 
 1. 'Moonbeam' produit des fleurs jaune pale au-dessus d'un feuillage tres fin.
 2. Il prefere le soleil et un sol bien draine, plutot que les terres lourdes et humides.
 3. La suppression des fleurs fanees aide a prolonger la floraison.
 
-## Vocabulaire
+## 📖 Vocabulaire
 
 - **Capitule :** inflorescence composee de nombreuses petites fleurs reunies comme une seule fleur.
 - **Vivace :** plante qui vit plusieurs annees.
 - **Division :** separation d'une touffe en plusieurs parties capables de reprendre.
 
-## Sources
+## 🔗 Sources
 
 - [Wikipedia - Coreopsis verticillata](https://en.wikipedia.org/wiki/Coreopsis_verticillata), consulte le 2026-09-09.
 - [Wikimedia Commons - Coreopsis verticillata Moonbeam 1zz.jpg](https://commons.wikimedia.org/wiki/File:Coreopsis_verticillata_Moonbeam_1zz.jpg), consulte le 2026-09-09.
