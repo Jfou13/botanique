@@ -1,1 +1,47 @@
-test
+# Wiki botanique
+
+Un carnet d'apprentissage pour identifier, comprendre et entretenir les plantes.
+
+Le projet est volontairement simple : chaque plante est une fiche Markdown, les photos sont rangees dans `photos/`, et l'index permet de retrouver rapidement les fiches deja creees.
+
+## Organisation
+
+```text
+botanique/
+├── plantes/
+│   ├── index.md             # Catalogue des plantes
+│   ├── modele-fiche.md      # Modele a copier pour chaque nouvelle plante
+│   └── exemples/             # Fiches d'exemple ou fiches en cours
+├── photos/
+│   └── README.md             # Regles de nommage et emplacement des images
+├── ressources/
+│   └── README.md             # Livres, sites et sources utiles
+└── readme.md
+```
+
+## Ajouter une plante
+
+1. Copier `plantes/modele-fiche.md`.
+2. Renommer la copie avec le nom scientifique, par exemple `ficus-elastica.md`.
+3. Completer les informations et ajouter une photo dans `photos/`.
+4. Ajouter un lien vers la nouvelle fiche dans `plantes/index.md`.
+5. Noter la source des informations dans la section `Sources`.
+
+## Navigation
+
+- [Catalogue des plantes](plantes/index.md)
+- [Modele de fiche](plantes/modele-fiche.md)
+- [Organisation des photos](photos/README.md)
+- [Ressources et sources](ressources/README.md)
+
+## Principes de classement
+
+- **Nom scientifique** : nom de fichier et classement principal, car il reste stable malgré les noms communs.
+- **Nom commun** : utile pour la recherche et l'apprentissage.
+- **Famille botanique** : a renseigner quand elle est connue.
+- **Niveau de confiance** : distinguer une information verifiee d'une observation personnelle.
+- **Date de mise a jour** : garder une trace des progres et des corrections.
+
+## Etat du projet
+
+Le wiki demarre avec un modele de fiche et un index vide. Les plantes peuvent etre ajoutees progressivement, une fiche a la fois.
