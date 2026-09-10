@@ -13,6 +13,8 @@ Le projet est volontairement simple : chaque plante est une fiche Markdown, les 
 | [Thym serpolet 'Elfin'](plantes/thymus-serpyllum-elfin.md) | *Thymus serpyllum* 'Elfin' | Lamiaceae | Rocaille et jardin sec | Debut |
 | [Ephemere de Virginie 'Sweet Kate'](plantes/tradescantia-andersoniana-sweet-kate.md) | *Tradescantia* x *andersoniana* 'Sweet Kate' | Commelinaceae | Massif frais et mi-ombre | Debut |
 | [Coreopsis 'Moonbeam'](plantes/coreopsis-verticillata-moonbeam.md) | *Coreopsis verticillata* 'Moonbeam' | Asteraceae | Massif ensoleille et jardin sec | Debut |
+| [Verveine de Buenos Aires](plantes/verbena-bonariensis.md) | *Verbena bonariensis* | Verbenaceae | Massif ensoleille et bordure | Debut |
+| [Origan 'Kent Beauty'](plantes/origanum-kent-beauty.md) | *Origanum vulgare* 'Kent Beauty' | Lamiaceae | Massif sec, rocaille et bordure | Debut |
 | [Aster de Frikart 'Monch'](plantes/aster-frikartii-monch.md) | *Aster x frikartii* 'Monch' | Asteraceae | Massif ensoleille | Debut |
 
 Le [catalogue complet](plantes/index.md) permet de consulter les plantes disponibles et de les classer au fur et a mesure.
