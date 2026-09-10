@@ -11,6 +11,8 @@ Le catalogue est classe par nom scientifique. Les fiches peuvent etre enrichies 
 | [Thym serpolet 'Elfin'](thymus-serpyllum-elfin.md) | *Thymus serpyllum* 'Elfin' | Lamiaceae | Rocaille et jardin sec | Debut |
 | [Ephemere de Virginie 'Sweet Kate'](tradescantia-andersoniana-sweet-kate.md) | *Tradescantia* x *andersoniana* 'Sweet Kate' | Commelinaceae | Massif frais et mi-ombre | Debut |
 | [Coreopsis 'Moonbeam'](coreopsis-verticillata-moonbeam.md) | *Coreopsis verticillata* 'Moonbeam' | Asteraceae | Massif ensoleille et jardin sec | Debut |
+| [Verveine de Buenos Aires](verbena-bonariensis.md) | *Verbena bonariensis* | Verbenaceae | Massif ensoleille et bordure | Debut |
+| [Origan 'Kent Beauty'](origanum-kent-beauty.md) | *Origanum vulgare* 'Kent Beauty' | Lamiaceae | Massif sec, rocaille et bordure | Debut |
 | [Aster de Frikart 'Monch'](aster-frikartii-monch.md) | *Aster x frikartii* 'Monch' | Asteraceae | Massif ensoleille | Debut |
 
 ## A classer
