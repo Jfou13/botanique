@@ -69,23 +69,23 @@ Le feuillage est jaune chartreuse a vert-jaune, plus lumineux au soleil ou en lu
 
 | Element | Besoin de la plante |
 | --- | --- |
-| Lumiere | Soleil doux a mi-ombre ; la lumiere vive aide a conserver un feuillage lumineux. |
-| Eau | Sol regulierement frais, surtout pendant la croissance et la floraison. |
-| Sol | Sol humifere, fertile et frais, mais sans eau stagnante. |
-| Temperature | Vivace rustique dans de nombreuses regions ; proteger les jeunes plants en cas de froid intense. |
-| Humidite | Moyenne a elevee ; eviter une secheresse prolongee. |
-| Hauteur | Environ 40 a 60 cm. |
-| Envergure | Environ 40 a 60 cm par touffe adulte. |
-| Milieu | Massif de vivaces, lisiere, bord d'un bassin ou jardin frais. |
-| Texture du sol | Humifere, fertile, frais et bien draine. |
-| Exposition | Soleil doux, mi-ombre ou lumiere filtree. |
-| Resistance au sec | Faible a moyenne ; arroser en cas de secheresse prolongee. |
-| Couleur du feuillage | Jaune chartreuse a vert-jaune. |
-| Feuillage | Caduc : la partie aerienne disparait en hiver dans les climats frais. |
-| Origine | Cultivar horticole issu de Tradescantia d'Amerique du Nord. |
-| Type | Vivace herbacee. |
-| Silhouette | Touffue, dressee et legerement arquee. |
-| Temperature minimale supportee | Environ -15 a -20 degres C pour une plante bien installee ; a confirmer selon le climat local. |
+| ☀️ Lumiere | Soleil doux a mi-ombre ; la lumiere vive aide a conserver un feuillage lumineux. |
+| 💧 Eau | Sol regulierement frais, surtout pendant la croissance et la floraison. |
+| 🪴 Sol | Sol humifere, fertile et frais, mais sans eau stagnante. |
+| 🌡️ Temperature | Vivace rustique dans de nombreuses regions ; proteger les jeunes plants en cas de froid intense. |
+| 💦 Humidite | Moyenne a elevee ; eviter une secheresse prolongee. |
+| 📏 Hauteur | Environ 40 a 60 cm. |
+| 🌿 Envergure | Environ 40 a 60 cm par touffe adulte. |
+| 🏡 Milieu | Massif de vivaces, lisiere, bord d'un bassin ou jardin frais. |
+| 🪨 Texture du sol | Humifere, fertile, frais et bien draine. |
+| 🧭 Exposition | Soleil doux, mi-ombre ou lumiere filtree. |
+| 🏜️ Resistance au sec | Faible a moyenne ; arroser en cas de secheresse prolongee. |
+| 🎨 Couleur du feuillage | Jaune chartreuse a vert-jaune. |
+| 🍃 Feuillage | Caduc : la partie aerienne disparait en hiver dans les climats frais. |
+| 🌍 Origine | Cultivar horticole issu de Tradescantia d'Amerique du Nord. |
+| 🌱 Type | Vivace herbacee. |
+| 🏛️ Silhouette | Touffue, dressee et legerement arquee. |
+| 🧊 Temperature minimale supportee | Environ -15 a -20 degres C pour une plante bien installee ; a confirmer selon le climat local. |
 
 ## 📍 Ou la planter dans un massif ?
 

@@ -11,9 +11,9 @@
 
 ## 📸 Photo
 
-![Verveine de Buenos Aires](https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Verbena_bonariensis_3.jpg/640px-Verbena_bonariensis_3.jpg)
+![Verveine de Buenos Aires](https://commons.wikimedia.org/wiki/Special:FilePath/Verbena_bonariensis_3.jpg)
 
-*Photo : [Wikimedia Commons - Verbena bonariensis](https://commons.wikimedia.org/wiki/File:Verbena_bonariensis_3.jpg). Consulter la page source pour l'auteur et la licence.*
+*Photo : [Wikimedia Commons - Verbena bonariensis](https://commons.wikimedia.org/wiki/File:Verbena_bonariensis_3.jpg). Auteur : Franz Xaver. Licence : CC BY-SA 4.0 / GFDL, comme indique sur la page source.*
 
 ## 🔎 Reconnaitre la plante
 
@@ -69,23 +69,23 @@ Le feuillage est vert moyen, assez discret par rapport aux fleurs, mais contribu
 
 | Element | Besoin de la plante |
 | --- | --- |
-| Lumiere | Plein soleil, de preference sans ombre forte. |
-| Eau | Arrosage modere, surtout au moment de la plantation ; ensuite elle tolere la secheresse. |
-| Sol | Sol ordinaire, bien drainé, pas trop lourd ni detrempe. |
-| Temperature | Vivace rustique dans la plupart des jardins, tolere des temperatures assez basses une fois etablies. |
-| Humidite | Faible a moyenne ; aime un sol bien aere. |
-| Hauteur | Environ 80 a 120 cm. |
-| Envergure | Environ 30 a 50 cm selon la densite de la touffe. |
-| Milieu | Massif, bordure de jardin, prairie, jardin sauvage ou roseraie. |
-| Texture du sol | Legere a moyenne, bien drainante. |
-| Exposition | Ensoleillee, avec une bonne ventilation. |
-| Resistance au sec | Bonne une fois bien enracinee. |
-| Couleur du feuillage | Vert moyen. |
-| Feuillage | Caduc. |
-| Origine | Amerique du Sud. |
-| Type | Vivace herbacee. |
-| Silhouette | Elancee, aeree et fine. |
-| Temperature minimale supportee | Environ -15 a -20 degres C selon l'emplacement et le sol. |
+| ☀️ Lumiere | Plein soleil, de preference sans ombre forte. |
+| 💧 Eau | Arrosage modere, surtout au moment de la plantation ; ensuite elle tolere la secheresse. |
+| 🪴 Sol | Sol ordinaire, bien drainé, pas trop lourd ni detrempe. |
+| 🌡️ Temperature | Vivace rustique dans la plupart des jardins, tolere des temperatures assez basses une fois etablies. |
+| 💦 Humidite | Faible a moyenne ; aime un sol bien aere. |
+| 📏 Hauteur | Environ 80 a 120 cm. |
+| 🌿 Envergure | Environ 30 a 50 cm selon la densite de la touffe. |
+| 🏡 Milieu | Massif, bordure de jardin, prairie, jardin sauvage ou roseraie. |
+| 🪨 Texture du sol | Legere a moyenne, bien drainante. |
+| 🧭 Exposition | Ensoleillee, avec une bonne ventilation. |
+| 🏜️ Resistance au sec | Bonne une fois bien enracinee. |
+| 🎨 Couleur du feuillage | Vert moyen. |
+| 🍃 Feuillage | Caduc. |
+| 🌍 Origine | Amerique du Sud. |
+| 🌱 Type | Vivace herbacee. |
+| 🏛️ Silhouette | Elancee, aeree et fine. |
+| 🧊 Temperature minimale supportee | Environ -15 a -20 degres C selon l'emplacement et le sol. |
 
 ## 📍 Ou la planter dans un massif ?
 

@@ -69,23 +69,23 @@ Le feuillage est vert moyen a vert fonce, avec une texture simple qui met les fl
 
 | Element | Besoin de la plante |
 | --- | --- |
-| Lumiere | Soleil, avec une mi-ombre legere possible. |
-| Eau | Sol regulierement frais pendant la croissance et la floraison ; arrosage en cas de secheresse. |
-| Sol | Sol fertile, humifere et bien draine. |
-| Temperature | Vivace rustique une fois installee ; proteger les jeunes plants lors des grands froids. |
-| Humidite | Moyenne ; eviter les sols constamment detrempes. |
-| Hauteur | Environ 60 a 90 cm. |
-| Envergure | Environ 45 a 60 cm par touffe adulte. |
-| Milieu | Massif de vivaces, bordure ou jardin de cottage. |
-| Texture du sol | Humifere, fertile, frais mais draine. |
-| Exposition | Soleil ou mi-ombre lumineuse. |
-| Resistance au sec | Moyenne une fois installe ; arroser pendant les longues periodes seches. |
-| Couleur du feuillage | Vert moyen a vert fonce. |
-| Feuillage | Caduc. |
-| Origine | Hybride horticole. |
-| Type | Vivace herbacee. |
-| Silhouette | Touffue, dressee et ramifiee. |
-| Temperature minimale supportee | Environ -15 a -20 degres C pour une plante bien installee ; a confirmer selon le climat local. |
+| ☀️ Lumiere | Soleil, avec une mi-ombre legere possible. |
+| 💧 Eau | Sol regulierement frais pendant la croissance et la floraison ; arrosage en cas de secheresse. |
+| 🪴 Sol | Sol fertile, humifere et bien draine. |
+| 🌡️ Temperature | Vivace rustique une fois installee ; proteger les jeunes plants lors des grands froids. |
+| 💦 Humidite | Moyenne ; eviter les sols constamment detrempes. |
+| 📏 Hauteur | Environ 60 a 90 cm. |
+| 🌿 Envergure | Environ 45 a 60 cm par touffe adulte. |
+| 🏡 Milieu | Massif de vivaces, bordure ou jardin de cottage. |
+| 🪨 Texture du sol | Humifere, fertile, frais mais draine. |
+| 🧭 Exposition | Soleil ou mi-ombre lumineuse. |
+| 🏜️ Resistance au sec | Moyenne une fois installe ; arroser pendant les longues periodes seches. |
+| 🎨 Couleur du feuillage | Vert moyen a vert fonce. |
+| 🍃 Feuillage | Caduc. |
+| 🌍 Origine | Hybride horticole. |
+| 🌱 Type | Vivace herbacee. |
+| 🏛️ Silhouette | Touffue, dressee et ramifiee. |
+| 🧊 Temperature minimale supportee | Environ -15 a -20 degres C pour une plante bien installee ; a confirmer selon le climat local. |
 
 ## 📍 Ou la planter dans un massif ?
 

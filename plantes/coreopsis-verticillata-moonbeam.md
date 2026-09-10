@@ -69,23 +69,23 @@ Le feuillage est vert moyen, tres fin et decoupe. Il reste decoratif avant et ap
 
 | Element | Besoin de la plante |
 | --- | --- |
-| Lumiere | Soleil, avec une mi-ombre legere possible. |
-| Eau | Arrosages reguliers a la plantation ; ensuite moderes une fois installee. |
-| Sol | Sol ordinaire a pauvre, fertile si possible, mais surtout bien draine. |
-| Temperature | Vivace rustique une fois installee ; proteger les jeunes plants en cas de froid intense. |
-| Humidite | Faible a moyenne ; eviter les sols constamment humides. |
-| Hauteur | Environ 40 a 60 cm. |
-| Envergure | Environ 40 a 50 cm par touffe adulte. |
-| Milieu | Massif de vivaces, bordure, rocaille ou jardin sec. |
-| Texture du sol | Legere, sableuse ou graveleuse, avec un bon drainage. |
-| Exposition | Soleil ouvert ; eviter l'ombre dense. |
-| Resistance au sec | Bonne une fois la plante bien enracinee. |
-| Couleur du feuillage | Vert moyen. |
-| Feuillage | Caduc a semi-persistant selon le climat. |
-| Origine | Cultivar horticole issu d'une espece d'Amerique du Nord. |
-| Type | Vivace herbacee. |
-| Silhouette | Touffue, fine et legerement arrondie. |
-| Temperature minimale supportee | Environ -15 a -20 degres C pour une plante bien installee ; a confirmer selon le climat local. |
+| ☀️ Lumiere | Soleil, avec une mi-ombre legere possible. |
+| 💧 Eau | Arrosages reguliers a la plantation ; ensuite moderes une fois installee. |
+| 🪴 Sol | Sol ordinaire a pauvre, fertile si possible, mais surtout bien draine. |
+| 🌡️ Temperature | Vivace rustique une fois installee ; proteger les jeunes plants en cas de froid intense. |
+| 💦 Humidite | Faible a moyenne ; eviter les sols constamment humides. |
+| 📏 Hauteur | Environ 40 a 60 cm. |
+| 🌿 Envergure | Environ 40 a 50 cm par touffe adulte. |
+| 🏡 Milieu | Massif de vivaces, bordure, rocaille ou jardin sec. |
+| 🪨 Texture du sol | Legere, sableuse ou graveleuse, avec un bon drainage. |
+| 🧭 Exposition | Soleil ouvert ; eviter l'ombre dense. |
+| 🏜️ Resistance au sec | Bonne une fois la plante bien enracinee. |
+| 🎨 Couleur du feuillage | Vert moyen. |
+| 🍃 Feuillage | Caduc a semi-persistant selon le climat. |
+| 🌍 Origine | Cultivar horticole issu d'une espece d'Amerique du Nord. |
+| 🌱 Type | Vivace herbacee. |
+| 🏛️ Silhouette | Touffue, fine et legerement arrondie. |
+| 🧊 Temperature minimale supportee | Environ -15 a -20 degres C pour une plante bien installee ; a confirmer selon le climat local. |
 
 ## 📍 Ou la planter dans un massif ?
 

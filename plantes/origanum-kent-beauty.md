@@ -11,9 +11,9 @@
 
 ## 📸 Photo
 
-![Origan 'Kent Beauty'](https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Origanum_vulgare_0003.JPG/640px-Origanum_vulgare_0003.JPG)
+![Origan 'Kent Beauty'](https://commons.wikimedia.org/wiki/Special:FilePath/Origanum_Kent_Beauty_1zz.jpg)
 
-*Photo : [Wikimedia Commons - Origanum vulgare](https://commons.wikimedia.org/wiki/File:Origanum_vulgare_0003.JPG). Consulter la page source pour l'auteur et la licence.*
+*Photo : [Wikimedia Commons - Origanum Kent Beauty 1zz.jpg](https://commons.wikimedia.org/wiki/File:Origanum_Kent_Beauty_1zz.jpg). Ce fichier correspond bien au cultivar 'Kent Beauty'.*
 
 ## 🔎 Reconnaitre la plante
 
@@ -64,23 +64,23 @@ Le feuillage est vert moyen, parfois un peu grisatre, dense et aromatique. Il re
 
 | Element | Besoin de la plante |
 | --- | --- |
-| Lumiere | Plein soleil, indispensable pour une floraison nette et un port compact. |
-| Eau | Arrosage modere, surtout pendant la premiere annee ; ensuite peu d'eau. |
-| Sol | Sol ordinaire, bien drainé, pierreux ou léger est ideal. |
-| Temperature | Vivace rustique, supporte bien le froid sec si le sol reste bien drainé. |
-| Humidite | Faible a moyenne ; eviter les sols lourds et humides en permanence. |
-| Hauteur | Environ 20 a 35 cm. |
-| Envergure | Environ 30 a 45 cm selon les conditions. |
-| Milieu | Massif, bordure, rocaille, jardin sec, pot ou bac. |
-| Texture du sol | Legere, graveleuse ou calcaire, bien aerée. |
-| Exposition | Soleil en plein, a l'abri du vent excessif si possible. |
-| Resistance au sec | Bonne a tres bonne une fois bien enracinee. |
-| Couleur du feuillage | Vert moyen, parfois un peu gris. |
-| Feuillage | Persistant ou semi-persistant selon le climat. |
-| Origine | Europe, Asie occidentale et Nord de l'Afrique pour l'espece ; cultivar ornamental. |
-| Type | Vivace herbacee. |
-| Silhouette | Touffue, compacte et arrondie. |
-| Temperature minimale supportee | Environ -15 a -20 degres C selon le climat et le drainage. |
+| ☀️ Lumiere | Plein soleil, indispensable pour une floraison nette et un port compact. |
+| 💧 Eau | Arrosage modere, surtout pendant la premiere annee ; ensuite peu d'eau. |
+| 🪴 Sol | Sol ordinaire, bien drainé, pierreux ou léger est ideal. |
+| 🌡️ Temperature | Vivace rustique, supporte bien le froid sec si le sol reste bien drainé. |
+| 💦 Humidite | Faible a moyenne ; eviter les sols lourds et humides en permanence. |
+| 📏 Hauteur | Environ 20 a 35 cm. |
+| 🌿 Envergure | Environ 30 a 45 cm selon les conditions. |
+| 🏡 Milieu | Massif, bordure, rocaille, jardin sec, pot ou bac. |
+| 🪨 Texture du sol | Legere, graveleuse ou calcaire, bien aerée. |
+| 🧭 Exposition | Soleil en plein, a l'abri du vent excessif si possible. |
+| 🏜️ Resistance au sec | Bonne a tres bonne une fois bien enracinee. |
+| 🎨 Couleur du feuillage | Vert moyen, parfois un peu gris. |
+| 🍃 Feuillage | Persistant ou semi-persistant selon le climat. |
+| 🌍 Origine | Europe, Asie occidentale et Nord de l'Afrique pour l'espece ; cultivar ornamental. |
+| 🌱 Type | Vivace herbacee. |
+| 🏛️ Silhouette | Touffue, compacte et arrondie. |
+| 🧊 Temperature minimale supportee | Environ -15 a -20 degres C selon le climat et le drainage. |
 
 ## 📍 Ou la planter dans un massif ?
 
