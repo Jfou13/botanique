@@ -164,4 +164,4 @@ Les plantes obtenues par semis peuvent presenter des differences avec la plante 
 
 - [Royal Horticultural Society - Thalictrum rochebrunianum](https://www.rhs.org.uk/plants/18120/thalictrum-rochebrunianum/details), consulte le 2026-09-09.
 - [Plants of the World Online - Kew, Thalictrum rochebrunianum](https://powo.science.kew.org/), recherche a effectuer sur le nom scientifique, consulte le 2026-09-09.
-- [Wikipédia - Thalictrum rochebruneanum](https://fr.wikipedia.org/wiki/Thalictrum_rochebruneanum), consulte le 2026-09-09.
+- [Wikipédia - Thalictrum rochebrunianum](https://fr.wikipedia.org/wiki/Thalictrum_rochebrunianum), consulte le 2026-09-09.

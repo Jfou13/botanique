@@ -151,6 +151,6 @@ Des boutures de tiges peuvent etre prelevees au printemps. Le semis peut donner 
 
 ## 🔗 Sources
 
-- [Wikipedia - Aster](https://en.wikipedia.org/wiki/Aster_(genus)), consulte le 2026-09-09.
+- [Wikipedia - Aster](https://en.wikipedia.org/wiki/Aster), consulte le 2026-09-09.
 - [Wikimedia Commons - Aster x frikartii Monch 1zz.jpg](https://commons.wikimedia.org/wiki/File:Aster_x_frikartii_Monch_1zz.jpg), consulte le 2026-09-09.
 - [Royal Horticultural Society - recherche Aster x frikartii Monch](https://www.rhs.org.uk/plants/search-results?query=Aster%20x%20frikartii%20Monch), consulte le 2026-09-09.

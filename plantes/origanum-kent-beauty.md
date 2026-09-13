@@ -146,5 +146,5 @@ Les boutures de tiges sont aussi possibles en été. Le semis est possible mais 
 ## 🔗 Sources
 
 - [Wikipedia - Origanum vulgare](https://fr.wikipedia.org/wiki/Origanum_vulgare), consulte le 2026-09-10.
-- [Wikimedia Commons - Origanum vulgare 0003.JPG](https://commons.wikimedia.org/wiki/File:Origanum_vulgare_0003.JPG), consulte le 2026-09-10.
+- [Wikimedia Commons - Origanum Kent Beauty 1zz.jpg](https://commons.wikimedia.org/wiki/File:Origanum_Kent_Beauty_1zz.jpg), consulte le 2026-09-10.
 - [Royal Horticultural Society - Origanum vulgare 'Kent Beauty'](https://www.rhs.org.uk/plants/90834/origanum-vulgare-kent-beauty/details), consulte le 2026-09-10.
