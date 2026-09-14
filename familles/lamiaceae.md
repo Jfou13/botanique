@@ -4,6 +4,12 @@
 
 Les Lamiaceae regroupent de nombreuses plantes aromatiques et ornementales. La famille comprend notamment les lavandes, thyms, origans, sauges et menthes.
 
+## Illustration
+
+![Lavandin Grosso, exemple de Lamiaceae](https://commons.wikimedia.org/wiki/Special:FilePath/Lavandula%20x%20intermedia%20Grosso%200zz.jpg)
+
+*Photo : [Lavandula x intermedia 'Grosso' sur Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Lavandula_x_intermedia_Grosso_0zz.jpg), exemple de plante aromatique de la famille.*
+
 ## Caracteres pour reconnaitre la famille
 
 - Feuilles generalement opposees.

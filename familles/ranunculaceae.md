@@ -4,6 +4,12 @@
 
 Les Ranunculaceae forment une famille tres diverse de plantes herbacees, comprenant des anemones, boutons-d'or, aconits, clematites et pigamons.
 
+## Illustration
+
+![Thalictrum rochebrunianum, exemple de Ranunculaceae](https://upload.wikimedia.org/wikipedia/commons/1/1b/Thalictrum_rochebrunianum.jpg)
+
+*Photo : [Thalictrum rochebrunianum sur Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Thalictrum_rochebrunianum.jpg), exemple de feuillage decoupe et de fleurs aeriennes de la famille.*
+
 ## Caracteres pour reconnaitre la famille
 
 - Fleurs souvent riches en etamines et en carpelles.

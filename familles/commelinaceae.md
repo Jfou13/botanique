@@ -4,6 +4,12 @@
 
 Les Commelinaceae sont des plantes herbacees souvent vivaces, principalement tropicales ou subtropicales. Plusieurs genres sont cultives pour leurs fleurs et leur feuillage decoratif.
 
+## Illustration
+
+![Tradescantia Sweet Kate, exemple de Commelinaceae](https://upload.wikimedia.org/wikipedia/commons/4/41/Tradescantia_%C3%97_andersoniana_%27Sweet_Kate%27_%282004-0552-A%29.jpg)
+
+*Photo : [Tradescantia x andersoniana 'Sweet Kate' sur Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Tradescantia_%C3%97_andersoniana_%27Sweet_Kate%27_%282004-0552-A%29.jpg), exemple de fleur et de feuillage de la famille.*
+
 ## Caracteres pour reconnaitre la famille
 
 - Tiges souvent souples et feuilles simples, engainantes a la base.

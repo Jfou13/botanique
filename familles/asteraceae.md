@@ -4,6 +4,12 @@
 
 Les Asteraceae, aussi appelees Composees, forment une tres grande famille de plantes a fleurs. Leur inflorescence caracteristique est le capitule, qui rassemble de nombreuses petites fleurs.
 
+## Illustration
+
+![Coreopsis verticillata, exemple d'Asteraceae](https://upload.wikimedia.org/wikipedia/commons/d/d5/Coreopsis_verticillata_Moonbeam_1zz.jpg)
+
+*Photo : [Coreopsis verticillata 'Moonbeam' sur Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Coreopsis_verticillata_Moonbeam_1zz.jpg), exemple de capitules de la famille.*
+
 ## Caracteres pour reconnaitre la famille
 
 - Capitule souvent entoure de bractees.

@@ -4,6 +4,12 @@
 
 Les Plumbaginaceae regroupent des plantes herbacees, des sous-arbrisseaux et quelques plantes adaptees aux sols secs ou sales. Leurs fleurs sont souvent regulieres et composees de cinq pieces.
 
+## Illustration
+
+![Ceratostigma plumbaginoides, exemple de Plumbaginaceae](https://commons.wikimedia.org/wiki/Special:FilePath/Ortobotanico%20-%20Ceratostigma%20plumbaginoides%2002.jpg)
+
+*Photo : [Ceratostigma plumbaginoides sur Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Ortobotanico_-_Ceratostigma_plumbaginoides_02.jpg), exemple de fleurs bleues de la famille.*
+
 ## Caracteres pour reconnaitre la famille
 
 - Fleurs generalement a cinq petales ou lobes.

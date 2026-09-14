@@ -4,6 +4,12 @@
 
 Les Aizoaceae regroupent de nombreuses plantes succulentes, souvent adaptees aux regions seches et ensoleillees. Elles stockent l'eau dans leurs feuilles ou leurs tiges et sont frequemment utilisees dans les rocailles.
 
+## Illustration
+
+![Delosperma nubigenum, exemple d'Aizoaceae](https://commons.wikimedia.org/wiki/Special:FilePath/Delosperma%20nubigenum.jpg)
+
+*Photo : [Delosperma nubigenum sur Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Delosperma_nubigenum.jpg), exemple de plante succulente et tapissante de la famille.*
+
 ## Caracteres pour reconnaitre la famille
 
 - Feuilles charnues, opposees ou groupees, capables de stocker l'eau.
