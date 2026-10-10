@@ -3,6 +3,7 @@
 - **Nom scientifique :** *[Genre espece]*
 - **Famille :** [Famille botanique]
 - **Origine :** [Region ou habitat naturel]
+- **Aquatique :** [Oui / Non ; type de milieu si aquatique]
 - **Date d'ajout :** AAAA-MM-JJ
 - **Derniere mise a jour :** AAAA-MM-JJ
 - **Niveau :** Debut / Intermediaire / Avance
@@ -75,6 +76,8 @@
 | 📏 Hauteur | [hauteur adulte] |
 | 🌿 Envergure | [largeur adulte ou espace occupe] |
 | 🏡 Milieu | [massif, sous-bois, rocaille, pot, prairie, autre] |
+| 💧 Profondeur de plantation aquatique | [si aquatique : profondeur du rhizome ou de la motte par rapport a la surface de l'eau] |
+| 📏 Hauteur au-dessus de l'eau | [si aquatique : hauteur emergee adulte] |
 | 🪨 Texture du sol | [argileux, limoneux, sableux, humifere, caillouteux] |
 | 🧭 Exposition | [abritee, vent, nord, sud, est, ouest] |
 | 🏜️ Resistance au sec | [faible, moyenne, bonne] |
